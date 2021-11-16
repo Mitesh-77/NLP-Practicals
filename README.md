@@ -1,8 +1,4 @@
 # Practical-1
 
 
-If you want to fetch some other product review data other than "Samsung Galaxy S21" as I have done in this project,
-
-then just enter your choiced product name in "search.send_keys("enter your product name here")" in the flipkart scrapper.py file.
-
-and the result will be stored in text format in 'flipkart1.txt'.
+If you want search news on specific Topic then you can refer Practical 1 In which I have Implemented Googl News On Specific Entity
